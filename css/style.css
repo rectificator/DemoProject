@@ -1,1 +1,10 @@
-No hay de que preocuparse
+body{
+    color: rgb(230, 5, 192);
+}
+
+header{
+    background: rgb(92, 1, 57);
+    color: white;
+    font-weight: bold;
+    font-family: 'Arial';
+}

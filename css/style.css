@@ -1,10 +1,10 @@
 body{
-    color: rgb(230, 5, 192);
+    color: blue;
 }
 
 header{
     background: rgb(92, 1, 57);
-    color: white;
+    color: wheat;
     font-weight: bold;
     font-family: 'Arial';
 }
